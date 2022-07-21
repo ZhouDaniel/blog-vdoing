@@ -12,7 +12,7 @@ module.exports = {
   lastUpdated: '上次更新', // 开启更新时间，并配置前缀文字   string | boolean (取值为git提交时间)
   docsDir: 'docs', // 编辑的文件夹
   editLinks: true, // 启用编辑
-  editLinkText: '编辑',
+  editLinkText: '编辑1',
 
   //*** 以下配置是Vdoing主题改动和新增的配置 ***//
 
@@ -53,7 +53,7 @@ module.exports = {
   blogger: {
     // 博主信息，显示在首页侧边栏
     // avatar: 'https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200103123203.jpg',
-    avatar: 'http://zhoudaniel.top/image/vdblog/jiangwen.JPG',
+    avatar: 'http://zhoudaniel.top/image/vdblog/dongman.png',
     name: 'Daniel Zhou',
     slogan: '有挫败才会有成长',
   },
